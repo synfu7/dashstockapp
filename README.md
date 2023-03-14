@@ -1,2 +1,2 @@
 # dashstockapp
-pythonanywhere.com app
+See app at http://synful.pythonanywhere.com/
